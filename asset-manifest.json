@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/F4-Contest-II/static/css/main.a6cdc2e9.css",
+    "main.js": "/F4-Contest-II/static/js/main.69db5fca.js",
+    "index.html": "/F4-Contest-II/index.html",
+    "main.a6cdc2e9.css.map": "/F4-Contest-II/static/css/main.a6cdc2e9.css.map",
+    "main.69db5fca.js.map": "/F4-Contest-II/static/js/main.69db5fca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6cdc2e9.css",
+    "static/js/main.69db5fca.js"
+  ]
+}
